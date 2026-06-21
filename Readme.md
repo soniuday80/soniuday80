@@ -2,10 +2,10 @@
  
 Backend / Data Engineer interested in infrastructure and system design — I like building the pipelines and services that run underneath a product, not just the UI on top.
  
-- 🔭 Currently working with data infrastructure — warehousing, orchestration, IaC
+- 🔭 Currently exploring data infrastructure
 - 🌱 Also build full-stack apps end-to-end when a project calls for it
 - 💬 Always down to talk backend architecture, data pipelines, or system design
-- 📫 [LinkedIn](https://linkedin.com) · [Email](mailto:you@example.com)
+- 📫 [LinkedIn](https://linkedin.com/in/uday-soni004.com) · [Email](mailto:soniuday795@gmail.com)
 ---
  
 #### 🛠️ Tech Stack
