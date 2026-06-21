@@ -5,7 +5,6 @@ Backend / Data Engineer interested in infrastructure and system design — I lik
 - 🔭 Currently exploring data infrastructure
 - 🌱 Also build full-stack apps end-to-end when a project calls for it
 - 💬 Always down to talk backend architecture, data pipelines, or system design
-- 📫 [LinkedIn](www.linkedin.com/in/uday-soni004) · [Email](mailto:soniuday795@gmail.com)
 ---
  
 #### 🛠️ Tech Stack
