@@ -12,7 +12,7 @@ Backend / Data Engineer interested in infrastructure and system design — I lik
 `Snowflake` `dbt` `Terraform` `Airflow` `Docker` `FastAPI` `Pinecone` `SQL` 
  
 **Full-Stack Development**
-`Node.js` `TypeScript` `Express` `MongoDB` `React(basic)` `Vite` `Stripe`
+`Node.js` `TypeScript` `Express` `MongoDB` `React` `Vite` `Stripe`
  
 **Data Analysis**
 `Python` `Pandas` `Matplotlib`
